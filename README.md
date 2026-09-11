@@ -14,7 +14,6 @@ I believe understanding how systems **fail** is as essential as knowing how they
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=onyks-os&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=onyks-os&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" width="45%" />
 </p>
 
 ---
